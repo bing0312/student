@@ -76,6 +76,9 @@ public class PrintStudent {
 		System.out.println("学生の年齢の平均値：" + averAgeStudentList(studentList));
 		System.out.println("学生の年齢の最大値：" + maxAgeStudentList(studentList));
 		System.out.println("学生の年齢の最小値：" + minAgeStudentList(studentList));
+		System.out.println("学生の年齢の平均値：" + averAgeStudentList(studentList));
+		System.out.println("学生の年齢の最大値：" + maxAgeStudentList(studentList));
+		System.out.println("学生の年齢の最小値：" + minAgeStudentList(studentList));
 
 	}
 
